@@ -5,3 +5,4 @@ qwer
 ok
 [pk
 another
+stray
